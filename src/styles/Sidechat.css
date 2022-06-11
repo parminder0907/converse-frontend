@@ -1,0 +1,30 @@
+.side-chat {
+    height: 5rem;
+    width: 100%;
+    margin-bottom: .5rem;
+    display: flex;
+    align-items: center;
+    padding: 0 2rem;
+    cursor: pointer;
+}
+.side-chat:hover {
+    background-color: #ebebeb;
+}
+
+.MuiAvatar-root {
+    font-size: 3rem;
+}
+
+.side-chat__info {
+    margin-left: 1rem;
+    text-align: left;
+}
+.side-chat__nme {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.side-chat__msg {
+    font-size: 1rem;
+    color: grey;
+}
+

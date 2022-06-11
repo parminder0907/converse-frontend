@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.AppContainer {
+  height: 100vh;
+  display: flex;
+  background-color: #dadbd3;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
